@@ -6,3 +6,4 @@
 # if Magisk change its mount point in the future
 
 setprop audio.camerasound.force false
+settings put system csc_pref_camera_forced_shuttersound_key 0
