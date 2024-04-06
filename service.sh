@@ -5,4 +5,5 @@
 # This will make sure your module will still work
 # if Magisk change its mount point in the future
 
+sleep 15
 /system/bin/settings put system csc_pref_camera_forced_shuttersound_key 0
